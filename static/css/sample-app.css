@@ -1,3 +1,12 @@
-.jumbotron {
-  margin-top: 1em;  // add a little space
+.yolo{
+  color:blue;
+  text-decoration: underline;
+}
+
+.loyo{
+  color:greenyellow;
+  text-decoration: blueviolet;
+  background: green;
+  padding-bottom: auto
+;
 }
